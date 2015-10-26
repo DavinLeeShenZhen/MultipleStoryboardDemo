@@ -104,13 +104,13 @@
 			isa = PBXGroup;
 			children = (
 				8DBD472C1BDDDCDD00B515F2 /* AppDelegate.swift */,
-				8DBD475A1BDDDD1900B515F2 /* Music.storyboard */,
 				8DBD475B1BDDDD1900B515F2 /* PlaceholderViewController.swift */,
+				8DBD47621BDDDD3100B515F2 /* Main.storyboard */,
 				8DBD475C1BDDDD1900B515F2 /* Sport.storyboard */,
+				8DBD475A1BDDDD1900B515F2 /* Music.storyboard */,
 				8DBD475D1BDDDD1900B515F2 /* ViewController.swift */,
 				8DBD47331BDDDCDD00B515F2 /* Assets.xcassets */,
 				8DBD47351BDDDCDD00B515F2 /* LaunchScreen.storyboard */,
-				8DBD47621BDDDD3100B515F2 /* Main.storyboard */,
 				8DBD47381BDDDCDD00B515F2 /* Info.plist */,
 			);
 			path = MultipleStoryboardDemo;
@@ -495,6 +495,7 @@
 				8DBD47531BDDDCDD00B515F2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		8DBD47541BDDDCDD00B515F2 /* Build configuration list for PBXNativeTarget "MultipleStoryboardDemoTests" */ = {
 			isa = XCConfigurationList;
@@ -503,6 +504,7 @@
 				8DBD47561BDDDCDD00B515F2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		8DBD47571BDDDCDD00B515F2 /* Build configuration list for PBXNativeTarget "MultipleStoryboardDemoUITests" */ = {
 			isa = XCConfigurationList;
@@ -511,6 +513,7 @@
 				8DBD47591BDDDCDD00B515F2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
